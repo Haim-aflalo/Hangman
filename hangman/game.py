@@ -9,11 +9,11 @@ def init_state(secret , max_tries):
 
 def validate_guess(ch,guesses):
     if len(ch) != 1:
-        return True
+        return True, "invalid input"
     elif ch in guesses:
-        return True
+        return True,"you already found this letter"
     else:
-         return False
+         return False,"good"
 
 def apply_guess(state,ch):
     state["guesses"].add(ch)
