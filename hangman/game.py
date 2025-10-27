@@ -14,11 +14,12 @@ def init_state(secret , max_tries):
 
 
 def validate_guess(ch,guessed):
-    return ch not in guessed, "your letter not in the word"
+    return ch in guessed, "your letter not in the word"
 
 def apply_guess(state,ch):
-    if ch in state["secret"]:
-        letter_index = index(ch)
+    secret_word = state["secret"]
+    if ch in secret_word:
+        letter_index = secret_word.index(ch)
         state["display"][letter_index] = ch
         return True
     else:

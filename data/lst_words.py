@@ -1,16 +1,16 @@
-words = ["בננה", "תפוח", "חציל", "עגבניה", "מלפפון", "מחשב", "עכבר", "מקלדת", "מסך", "טלפון"
-,"חלון", "דלת", "קיר", "שולחן", "כיסא", "מחברת", "עט", "עיפרון", "תיק", "ספר"
-,"אוטובוס", "מכונית", "מטוס", "סירה", "אופניים", "רכבת", "כביש", "מפה", "עיר", "כפר"
-,"מדבר", "יער", "ים", "הר", "שלג", "גשם", "שמש", "ירח", "כוכב", "שמיים"
-,"חולצה", "מכנסיים", "נעליים", "גרביים", "מעיל", "כובע", "צעיף", "מטריה", "שעון", "משקפיים"
-,"חתול", "כלב", "דג", "ציפור", "סוס", "כבשה", "עז", "פרה", "תרנגולת", "ברווז"
-,"נמר", "פיל", "קוף", "אריה", "דוב", "גמל", "שועל", "זאב", "תן", "ינשוף"
-,"פרח", "עלה", "עץ", "שיח", "דשא", "אבן", "נהר", "אגם", "מפלים", "מדורה"
-,"מים", "חול", "אדמה", "שמיים", "רוח", "ברק", "ענן", "סערה", "קשת", "שלולית"
-,"רופא", "מורה", "נהג", "כבאי", "שוטר", "חייל", "טבח", "חקלאי", "אופה", "מנקה"
-,"צייר", "מוזיקאי", "נגר", "חשמלאי", "מדען", "סופר", "מהנדס", "צלם", "תלמיד", "מאמן"
-,"שמחה", "עצב", "פחד", "אהבה", "כעס", "התרגשות", "שעמום", "תקווה", "דאגה", "שלווה"
-,"לחם", "גבינה", "ביצה", "חמאה", "שוקולד", "עוגה", "גלידה", "קפה", "תה", "פיצה"
-,"סוכר", "מלח", "פלפל", "בצל", "שום", "קמח", "אורז", "מרק", "חלב", "עוף"
-,"אוניה", "רכב", "אופנוע", "מסוק", "מטען", "נמל", "תחנה", "כביש", "מחלף", "מנהרה",
-"בית", "בניין", "מדרגות", "קומה", "גג", "חדר", "מטבח", "אמבטיה", "שירותים", "סלון"]
+words = ["Banana", "Apple", "Eggplant", "Tomato", "Cucumber", "Computer", "Mouse", "Keyboard", "Screen", "Telephone",
+"window", "door", "wall", "table", "chair", "notebook", "pen", "pencil", "bag", "book",
+"Bus", "Car", "Plane", "Boat", "Bicycle", "Train", "Road", "Map", "City", "Village",
+"Desert", "forest", "sea", "mountain", "snow", "rain", "sun", "moon", "star", "sky",
+"Shirt", "Pants", "Shoes", "Socks", "Coat", "Hat", "Scarf", "Umbrella", "Watch", "Glasses",
+"Cat", "Dog", "Fish", "Bird", "Horse", "Sheep", "Goat", "Cow", "Chicken", "Duck",
+"Tiger", "Elephant", "Monkey", "Lion", "Bear", "Camel", "Fox", "Wolf", "Jackal", "Owl",
+"flower", "leaf", "tree", "bush", "grass", "stone", "river", "lake", "waterfalls", "campfire",
+"Water", "Sand", "Earth", "Sky", "Wind", "Lightning", "Cloud", "Storm", "Rainbow", "Puddle",
+"doctor", "teacher", "driver", "firefighter", "policeman", "soldier", "cook", "farmer",
+"baker", "cleaner", "painter", "musician", "carpenter", "electrician", "scientist", "writer",
+"engineer", "photographer", "student", "coach", "joy", "sadness", "fear", "love", "anger", "excitement",
+"boredom", "hope", "worry", "calm", "bread", "cheese", "egg", "butter", "chocolate", "cake", "ice cream",
+"coffee", "tea", "pizza", "sugar", "salt", "pepper", "onion", "garlic", "flour", "rice", "soup", "milk",
+"chicken", "ship", "car", "motorcycle", "helicopter", "cargo", "port", "station", "road", "interchange",
+"tunnel", "house", "building", "stairs", "floor", "roof", "room", "kitchen", "bathroom", "toilet", "living room" ]
